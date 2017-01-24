@@ -1,0 +1,48 @@
+html {
+  background-color: #fdf6ee;
+}
+
+h1 {
+  color: #8FBC8F;
+  text-align: center;
+}
+
+#main {
+  margin-bottom: 40px;
+}
+
+.kaz {
+  height: 200px;
+  width: 275px;
+  border: 2px;
+}
+
+#kaz  {
+  padding: 40px;
+  float: left;
+  padding-left: 200px;
+}
+
+#kaz > h2 {
+  padding-left: 70px;
+}
+
+.noor {
+  height: 200px;
+  width: 275px;
+  border: 2px;
+}
+
+#noor {
+  float: right;
+  padding: 40px;
+  padding-right: 200px;
+}
+
+#noor > h2 {
+  padding-left: 70px;
+}
+
+img {
+  border: 2px;
+}

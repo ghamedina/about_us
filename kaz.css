@@ -1,0 +1,37 @@
+html {
+  background-image: url("http://i.stack.imgur.com/1nEcq.jpg");
+}
+body {
+  color: #d3f4ec;
+}
+
+h1 {
+  text-align: center;
+}
+
+#main {
+  float: left;
+  display: table;
+  width: 960px;
+}
+
+.side {
+  float: right;
+  display: table;
+  width: 200px;
+  margin-top: 60px;
+
+}
+
+#car {
+  width: 32%;
+  margin-left: 5px;
+}
+
+#car_text {
+  width: 65%;
+  float: right;
+}
+footer {
+  clear: both;
+}
